@@ -1,0 +1,23 @@
+C:\Users\fatihzahidgenc\source\repos\Menu_MDI\Menu_MDI\bin\Debug\Menu_MDI.exe.config
+C:\Users\fatihzahidgenc\source\repos\Menu_MDI\Menu_MDI\bin\Debug\Menu_MDI.exe
+C:\Users\fatihzahidgenc\source\repos\Menu_MDI\Menu_MDI\bin\Debug\Menu_MDI.pdb
+C:\Users\fatihzahidgenc\source\repos\Menu_MDI\Menu_MDI\obj\Debug\Menu_MDI.csprojAssemblyReference.cache
+C:\Users\fatihzahidgenc\source\repos\Menu_MDI\Menu_MDI\obj\Debug\Menu_MDI.Form1.resources
+C:\Users\fatihzahidgenc\source\repos\Menu_MDI\Menu_MDI\obj\Debug\Menu_MDI.Properties.Resources.resources
+C:\Users\fatihzahidgenc\source\repos\Menu_MDI\Menu_MDI\obj\Debug\Menu_MDI.csproj.GenerateResource.cache
+C:\Users\fatihzahidgenc\source\repos\Menu_MDI\Menu_MDI\obj\Debug\Menu_MDI.exe
+C:\Users\fatihzahidgenc\source\repos\Menu_MDI\Menu_MDI\obj\Debug\Menu_MDI.pdb
+C:\Users\fatihzahidgenc\source\repos\Menu_MDI\Menu_MDI\obj\Debug\Menu_MDI.ChildForm.resources
+C:\Users\fatihzahidgenc\source\repos\Menu_MDI\Menu_MDI\obj\Debug\Menu_MDI.MDIForm.resources
+C:\Users\fatihzahidgenc\source\repos\Yeni klasör\Menu_MDI\Menu_MDI\Menu_MDI\bin\Debug\Menu_MDI.exe.config
+C:\Users\fatihzahidgenc\source\repos\Yeni klasör\Menu_MDI\Menu_MDI\Menu_MDI\bin\Debug\Menu_MDI.exe
+C:\Users\fatihzahidgenc\source\repos\Yeni klasör\Menu_MDI\Menu_MDI\Menu_MDI\bin\Debug\Menu_MDI.pdb
+C:\Users\fatihzahidgenc\source\repos\Yeni klasör\Menu_MDI\Menu_MDI\Menu_MDI\obj\Debug\Menu_MDI.csproj.AssemblyReference.cache
+C:\Users\fatihzahidgenc\source\repos\Yeni klasör\Menu_MDI\Menu_MDI\Menu_MDI\obj\Debug\Menu_MDI.ChildForm.resources
+C:\Users\fatihzahidgenc\source\repos\Yeni klasör\Menu_MDI\Menu_MDI\Menu_MDI\obj\Debug\Menu_MDI.Form1.resources
+C:\Users\fatihzahidgenc\source\repos\Yeni klasör\Menu_MDI\Menu_MDI\Menu_MDI\obj\Debug\Menu_MDI.MDIForm.resources
+C:\Users\fatihzahidgenc\source\repos\Yeni klasör\Menu_MDI\Menu_MDI\Menu_MDI\obj\Debug\Menu_MDI.Properties.Resources.resources
+C:\Users\fatihzahidgenc\source\repos\Yeni klasör\Menu_MDI\Menu_MDI\Menu_MDI\obj\Debug\Menu_MDI.csproj.GenerateResource.cache
+C:\Users\fatihzahidgenc\source\repos\Yeni klasör\Menu_MDI\Menu_MDI\Menu_MDI\obj\Debug\Menu_MDI.csproj.CoreCompileInputs.cache
+C:\Users\fatihzahidgenc\source\repos\Yeni klasör\Menu_MDI\Menu_MDI\Menu_MDI\obj\Debug\Menu_MDI.exe
+C:\Users\fatihzahidgenc\source\repos\Yeni klasör\Menu_MDI\Menu_MDI\Menu_MDI\obj\Debug\Menu_MDI.pdb
